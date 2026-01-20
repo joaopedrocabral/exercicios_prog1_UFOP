@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-#define QTD 2
+#define QTD 10
 
 #define RED   "\033[31m"
 #define RESET "\033[0m"
